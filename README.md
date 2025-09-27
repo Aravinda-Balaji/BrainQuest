@@ -1,5 +1,4 @@
-# BrainQuest
-# 🧠 QuizMaster Pro
+# 🧠 BrainQuest
 
 An interactive, responsive web-based quiz application built with vanilla JavaScript, HTML5, and CSS3. Test your knowledge with engaging multiple-choice questions, real-time feedback, and comprehensive scoring.
 
@@ -50,37 +49,6 @@ An interactive, responsive web-based quiz application built with vanilla JavaScr
 - Progress State Management
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Modern web browser (Chrome, Firefox, Safari, Edge)
-- No additional dependencies required
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/quizmaster-pro.git
-   ```
-
-2. **Navigate to project directory**
-   ```bash
-   cd quizmaster-pro
-   ```
-
-3. **Open in browser**
-   ```bash
-   # Option 1: Direct file opening
-   open index.html
-   
-   # Option 2: Local server (recommended)
-   python -m http.server 8000
-   # or
-   npx serve .
-   ```
-
-4. **Visit** `http://localhost:8000` in your browser
-
 ## 📱 Usage
 
 1. **Start Quiz** - Click "Start Quiz" on the welcome screen
@@ -120,26 +88,6 @@ quizmaster-pro/
 - **Responsive Images** - Optimized for different screen sizes
 - **Local Storage** - Client-side data persistence
 
-## 🔧 Customization
-
-### Adding New Questions
-```javascript
-const questions = [
-    {
-        question: "Your question here?",
-        options: ["Option A", "Option B", "Option C", "Option D"],
-        correct: 0 // Index of correct answer (0-3)
-    }
-    // Add more questions...
-];
-```
-
-### Modifying Timer Duration
-```javascript
-// Change timer duration in seconds
-let timer = 30; // Modify this value
-```
-
 ### Styling Customization
 - Colors: Modify CSS custom properties in `:root`
 - Fonts: Update `font-family` declarations
@@ -155,27 +103,6 @@ let timer = 30; // Modify this value
 - [ ] **Social Sharing** - Share results on social media
 - [ ] **Audio Support** - Sound effects and background music
 - [ ] **Dark/Light Theme** - Theme switching functionality
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ## 🙏 Acknowledgments
 
