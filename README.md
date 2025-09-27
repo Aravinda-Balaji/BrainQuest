@@ -6,13 +6,6 @@ An interactive, responsive web-based quiz application built with vanilla JavaScr
 
 [View Live Demo](https://your-username.github.io/quizmaster-pro) _(Replace with your GitHub Pages URL)_
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="screenshots/desktop-view.png" alt="Desktop View" width="45%">
-  <img src="screenshots/mobile-view.png" alt="Mobile View" width="45%">
-</div>
-
 ## ✨ Features
 
 ### Core Functionality
