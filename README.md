@@ -51,19 +51,6 @@ An interactive, responsive web-based quiz application built with vanilla JavaScr
 5. **Check Leaderboard** - Compare your performance with previous attempts
 6. **Play Again** - Restart for a new randomized quiz experience
 
-## 🎯 Code Structure
-
-```
-quizmaster-pro/
-├── index.html          # Main application file
-├── README.md           # Project documentation
-├── screenshots/        # Application screenshots
-│   ├── desktop-view.png
-│   ├── mobile-view.png
-│   └── results-screen.png
-└── LICENSE            # MIT License
-```
-
 ## 🎨 Design Features
 
 - **Modern Glassmorphism** - Translucent cards with backdrop blur
@@ -102,15 +89,3 @@ quizmaster-pro/
 - Design inspiration from modern quiz applications
 - Icons and fonts from Google Fonts and Unicode
 - Color palette inspired by modern web design trends
-
-## 📈 Project Stats
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-⭐ **Star this repository if you found it helpful!**
-
-*Built with ❤️ for learning and sharing knowledge*
