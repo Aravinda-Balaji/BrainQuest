@@ -26,17 +26,6 @@ An interactive, responsive web-based quiz application built with vanilla JavaScr
 - **LocalStorage API** - Client-side data persistence
 - **Responsive Design** - Mobile-first approach with CSS Grid and Flexbox
 
-## 🏗️ Technical Highlights
-
-```javascript
-- Timer Management System
-- Dynamic DOM Manipulation
-- Local Storage Integration
-- Responsive Event Handling
-- CSS Animation Control
-- Progress State Management
-```
-
 ## 📱 Usage
 
 1. **Start Quiz** - Click "Start Quiz" on the welcome screen
@@ -45,14 +34,6 @@ An interactive, responsive web-based quiz application built with vanilla JavaScr
 4. **View Results** - Get detailed feedback and see your final score
 5. **Check Leaderboard** - Compare your performance with previous attempts
 6. **Play Again** - Restart for a new randomized quiz experience
-
-## 📊 Performance Optimizations
-
-- **Vanilla JavaScript** - No framework overhead
-- **Efficient DOM Updates** - Minimal reflows and repaints
-- **CSS Animations** - Hardware-accelerated transitions
-- **Responsive Images** - Optimized for different screen sizes
-- **Local Storage** - Client-side data persistence
 
 ## 🙏 Acknowledgments
 
